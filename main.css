@@ -1,0 +1,51 @@
+.jumbotron{
+	//background: url( 'assets/together.png');
+	background-size: 100% auto;
+	background-position: 50% 50%;
+	background:#000;
+
+}
+
+body{
+		background: #000;
+		color:#fff;
+}
+
+.container{
+
+	background: #000;
+	color:#fff;
+
+}
+.jumbotron .container{
+	background: none;
+	//color:#fff;
+}
+
+.col-md-6{
+	padding-bottom: 30px;
+}
+
+.images img{
+
+	width:100%;
+
+}
+
+.row h3{
+
+	//border-bottom: 1px solid white;
+	//padding:10px;
+
+}
+
+#quoteby{
+	float:right;
+	padding:20px;
+}
+
+#title{
+	padding-top:40px;
+	padding-bottom:40px;
+	font-size: 80px;
+}
